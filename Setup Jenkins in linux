@@ -2,3 +2,4 @@
 
 
 yum install java openjdk11
+yum install java-11-amazon-corretto -y
