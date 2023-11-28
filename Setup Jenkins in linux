@@ -8,4 +8,4 @@ yum install java-11-amazon-corretto -y
 
 
 
-find / -name contect.xml
+find / -name context.xml
